@@ -1,68 +1,51 @@
-🔐 Password Manager
+# 🔐 Password Manager
 
-A secure, client-side password manager built using vanilla HTML, CSS, and JavaScript.
-Manage and store your passwords locally with advanced security features—no external servers required.
+A secure, client-side password manager built with **vanilla HTML, CSS, and JavaScript**.  
+Store and manage your passwords **locally** with advanced security features – no external servers involved.
 
-✨ Features
-🔑 Password Generation
+---
 
-Generate strong passwords with customizable length (4–50 characters)
+## ✨ Features
 
-Select character types: uppercase, lowercase, numbers, symbols
+### 🔑 Password Generation
+- Customizable length (4–50 characters)
+- Choose character types: uppercase, lowercase, numbers, symbols
+- Option to exclude similar characters (0, O, l, 1, I)
+- Real-time password strength indicator
+- One-click copy to clipboard
 
-Option to exclude similar characters (0, O, l, 1, I)
+### 💾 Password Storage
+- Local storage with **encryption**
+- Master password protection
+- Search, edit, and delete entries
+- Notes field for additional info
+- Export/Import for backup
 
-Real-time password strength indicator
+### 🔒 Security
+- Master password required
+- Lockout after 3 failed attempts (1 min)
+- Auto-lock timer (5m, 10m, 30m, 1h)
+- Password visibility toggle
+- All data stays **offline/local**
 
-Copy passwords to clipboard with one click
+### 🎨 User Interface
+- Modern, responsive design
+- Light/Dark/Auto theme
+- Smooth animations
+- Mobile-friendly UI
 
-💾 Password Storage
+### ⚙️ Extras
+- Settings management
+- Export/Import data
+- Clear all data option
+- Session management
+- Notification system
 
-Secure local storage with encryption
+---
 
-Protect access with a master password
+## 🚀 Getting Started
 
-Search, edit, and delete entries easily
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No installation needed
 
-Notes field for extra information
-
-Export and import data for backups
-
-🔒 Security
-
-Master password required to access data
-
-Lockout after 3 failed attempts (1 min)
-
-Auto-lock timer options: 5m, 10m, 30m, 1h
-
-Toggle password visibility
-
-All data stays offline/local
-
-🎨 User Interface
-
-Modern, responsive, and mobile-friendly design
-
-Light, Dark, or Auto theme options
-
-Smooth animations for better UX
-
-⚙️ Extras
-
-Manage app settings
-
-Export and import stored data
-
-Clear all data option
-
-Session management
-
-Built-in notification system
-
-🚀 Getting Started
-Prerequisites
-
-A modern web browser (Chrome, Firefox, Safari, Edge)
-
-No installation required – just open in your browser
